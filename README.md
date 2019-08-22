@@ -3,20 +3,22 @@
 ## Java
 
 ### <a href="https://www.acmicpc.net/category/detail/1897">카카오 코드 페스티벌 2018 예선</a>
-- 15953(상금 헌터) / 풀이
-- 15954(인형들) /풀이
-- 15956(숏코딩) / 풀이
+- 15953(상금 헌터) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15953/Main.java">풀이</a>
+- 15954(인형들) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15954/Main.java">풀이</a>
+- 15956(숏코딩) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15956/Main.java">풀이</a>
 
 
 ### <a href="https://www.acmicpc.net/category/detail/1945">2018 홍익대학교 컴퓨터공학과 코딩대회</a>
-- 16395(파스칼의 삼각형) / 풀이
-- 16396(선그리기) / 풀이
-- 16397(탈출) : BFS / 풀이
-- 16398(행성연결) : MST Kruskal / 풀이
+- 16395(파스칼의 삼각형) / <a href="#">풀이</a>
+- 16396(선그리기) / <a href="#">풀이</a>
+- 16397(탈출) : **BFS** / <a href="#">풀이</a>
+- 16398(행성연결) : **MST Kruskal** / <a href="#">풀이</a>
 
 
 ### 기타
-- 17362
+- 17362(수학은 체육과목 입니다 2) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17362/Main.java">풀이</a>
+
+
 
 ## Python3
 
