@@ -12,8 +12,9 @@
 - 16395(파스칼의 삼각형) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16395/Main.java">풀이</a>
 - 16396(선그리기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16396/Main.java">풀이</a>
 - 16397(탈출) : **BFS** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16397/Main.java">풀이</a>
-- 16398(행성연결) : **MST Kruskal** / <a href="#">풀이</a>
-
+- [x]16398(행성 연결) : **MST Kruskal** / <a href="#">풀이</a> 
+- 16400(소수 화폐) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16400/Main.java">풀이</a>
+- 16401(과자 나눠주기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16401/Main.java">풀이</a>
 
 ### 기타
 - 17362(수학은 체육과목 입니다 2) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17362/Main.java">풀이</a>
