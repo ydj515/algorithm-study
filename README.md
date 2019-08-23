@@ -9,9 +9,9 @@
 
 
 ### <a href="https://www.acmicpc.net/category/detail/1945">2018 홍익대학교 컴퓨터공학과 코딩대회</a>
-- 16395(파스칼의 삼각형) / <a href="#">풀이</a>
-- 16396(선그리기) / <a href="#">풀이</a>
-- 16397(탈출) : **BFS** / <a href="#">풀이</a>
+- 16395(파스칼의 삼각형) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16395/Main.java">풀이</a>
+- 16396(선그리기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16396/Main.java">풀이</a>
+- 16397(탈출) : **BFS** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16397/Main.java">풀이</a>
 - 16398(행성연결) : **MST Kruskal** / <a href="#">풀이</a>
 
 
