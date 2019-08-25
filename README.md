@@ -19,6 +19,7 @@
 - 16400(소수 화폐) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16400/Main.java">풀이</a>
 - 16401(과자 나눠주기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16401/Main.java">풀이</a>
 - 16402(제국) : **Union Find** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16402/Main.java">풀이</a>
+- 16404(주식회사 승범이네) : **Segment Tree & Lazy Propagation & DFS Order(전위순회)** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16404/Main.java">풀이</a>
 
 ### 기타
 - 17362(수학은 체육과목 입니다 2) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17362/Main.java">풀이</a>
@@ -36,7 +37,7 @@
 - 2. 간선의 가중치 1
 - 3. 정점과 간선의 개수가 적다.(시간 제약, 메모리 제한 내에 만족한다.)
 
-### BFS
+### DFS
 - Stack, Recursion
 
 ### MST
@@ -48,5 +49,7 @@
 
 #### Prim
 시작 정점에서부터 출발하여 신장트리 집합을 단계적으로 확장 해나가는 방법
+
+#### Union Find
 
 #### Union Find
