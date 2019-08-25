@@ -50,6 +50,13 @@
 #### Prim
 시작 정점에서부터 출발하여 신장트리 집합을 단계적으로 확장 해나가는 방법
 
-#### Union Find
+#### Segment Tree
+- 대표값을 트리형태로 저장하는 자료구조
+- 각 노드는 자식 노드들을 대표하는 값을 가짐  
+![1](https://user-images.githubusercontent.com/32935365/63648002-403e6a00-c764-11e9-87cb-e485ad5d577b.PNG)
 
-#### Union Find
+#### Lazy Propagation
+- 게으르게 업데이트를 전파시켜서 O( logN )만에 Segment Tree에서 구간 업데이트를 달성하는 알고리즘
+
+[출처]
+- https://bowbowbow.tistory.com/4  
