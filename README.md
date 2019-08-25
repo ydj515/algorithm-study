@@ -2,8 +2,10 @@
 
 - <a href="https://www.acmicpc.net/">백준</a>
 - <a href="https://programmers.co.kr/learn/challenges">프로그래머스</a>
+- <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">2019 카카오 신입 공채 1차 코딩 테스트 문제</a>
 
 ## Java
+
 
 ### <a href="https://www.acmicpc.net/category/detail/1897">카카오 코드 페스티벌 2018 예선</a>
 - 15953(상금 헌터) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15953/Main.java">풀이</a>
@@ -20,6 +22,17 @@
 - 16401(과자 나눠주기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16401/Main.java">풀이</a>
 - 16402(제국) : **Union Find** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16402/Main.java">풀이</a>
 - 16404(주식회사 승범이네) : **Segment Tree & Lazy Propagation & DFS Order(전위순회)** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16404/Main.java">풀이</a>
+
+
+### <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">2019 카카오 신입 공채 1차 코딩 테스트 문제</a>
+- 1(오픈채팅방) / <a href="#">풀이</a>
+- 2(실패율) / <a href="#">풀이</a>
+- 3(후보키) / <a href="#">풀이</a>
+- 4(무지의 먹방 라이브) / <a href="#">풀이</a>
+- 5(길 찾기 게임) / <a href="#">풀이</a>
+- 6(매칭 점수) / <a href="#">풀이</a>
+- 7(블록 게임) / <a href="#">풀이</a>
+
 
 ### 기타
 - 17362(수학은 체육과목 입니다 2) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17362/Main.java">풀이</a>
