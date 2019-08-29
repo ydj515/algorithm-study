@@ -36,7 +36,6 @@
 
 ### <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">UCPC 2019 온라인 예선</a>
 - 17362(수학은 체육과목 입니다 2) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17362/Main.java">풀이</a>
-
 - 17363(우유가 넘어지면?) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17363/Main.java">풀이</a>
 
 ## Python3
@@ -72,4 +71,4 @@
 - 게으르게 업데이트를 전파시켜서 O( logN )만에 Segment Tree에서 구간 업데이트를 달성하는 알고리즘
 
 [출처]
-- https://bowbowbow.tistory.com/4  
+https://bowbowbow.tistory.com/4  
