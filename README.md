@@ -26,7 +26,7 @@
 
 ### <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">2019 카카오 신입 공채 1차 코딩 테스트 문제</a>
 - 1(오픈채팅방) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num1/Main.java">풀이</a>
-- 2(실패율) / <a href="#">풀이</a>
+- 2(실패율) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num2/Main.java">풀이</a>
 - 3(후보키) / <a href="#">풀이</a>
 - 4(무지의 먹방 라이브) / <a href="#">풀이</a>
 - 5(길 찾기 게임) / <a href="#">풀이</a>
@@ -34,7 +34,7 @@
 - 7(블록 게임) / <a href="#">풀이</a>
 
 
-### <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">UCPC 2019 온라인 예선</a>
+### <a href="https://www.acmicpc.net/contest/view/449">UCPC 2019 온라인 예선</a>
 - 17362(수학은 체육과목 입니다 2) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17362/Main.java">풀이</a>
 - 17363(우유가 넘어지면?) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17363/Main.java">풀이</a>
 
