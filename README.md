@@ -25,7 +25,7 @@
 
 
 ### <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">2019 카카오 신입 공채 1차 코딩 테스트 문제</a>
-- 1(오픈채팅방) / <a href="#">풀이</a>
+- 1(오픈채팅방) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num1/Main.java">풀이</a>
 - 2(실패율) / <a href="#">풀이</a>
 - 3(후보키) / <a href="#">풀이</a>
 - 4(무지의 먹방 라이브) / <a href="#">풀이</a>
@@ -70,5 +70,5 @@
 #### Lazy Propagation
 - 게으르게 업데이트를 전파시켜서 O( logN )만에 Segment Tree에서 구간 업데이트를 달성하는 알고리즘
 
-[출처]
+[출처]  
 https://bowbowbow.tistory.com/4  
