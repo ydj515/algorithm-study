@@ -28,7 +28,7 @@
 - 1(오픈채팅방) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num1/Main.java">풀이</a>
 - 2(실패율) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num2/Main.java">풀이</a>
 - 3(후보키) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num3/Main.java">풀이</a>
-- 4(무지의 먹방 라이브) / <a href="#">풀이</a>
+- 4(무지의 먹방 라이브) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num4/Main.java">풀이</a>
 - 5(길 찾기 게임) / <a href="#">풀이</a>
 - 6(매칭 점수) / <a href="#">풀이</a>
 - 7(블록 게임) / <a href="#">풀이</a>
