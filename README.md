@@ -34,10 +34,10 @@
 - 7(블록 게임) / <a href="#">풀이</a>
 
 
-### 기타
+### <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">UCPC 2019 온라인 예선</a>
 - 17362(수학은 체육과목 입니다 2) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17362/Main.java">풀이</a>
 
-
+- 17363(우유가 넘어지면?) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17363/Main.java">풀이</a>
 
 ## Python3
 
