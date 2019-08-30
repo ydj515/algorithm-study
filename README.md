@@ -17,7 +17,7 @@
 - 16395(파스칼의 삼각형) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16395/Main.java">풀이</a>
 - 16396(선그리기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16396/Main.java">풀이</a>
 - 16397(탈출) : **BFS** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16397/Main.java">풀이</a>
-- 16398(행성 연결) : **MST Kruskal** / <a href="#">풀이</a>
+- 16398(행성 연결) : **MST Kruskal** / <a href="#">풀이</a> -----------------------------------못품
 - 16400(소수 화폐) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16400/Main.java">풀이</a>
 - 16401(과자 나눠주기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16401/Main.java">풀이</a>
 - 16402(제국) : **Union Find** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16402/Main.java">풀이</a>
@@ -29,22 +29,22 @@
 - 2(실패율) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num2/Main.java">풀이</a>
 - 3(후보키) : **Bits 연산** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num3/Main.java">풀이</a>
 - 4(무지의 먹방 라이브) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num4/Main.java">풀이</a>
-- 5(길 찾기 게임) / <a href="#">풀이</a>
-- 6(매칭 점수) / <a href="#">풀이</a>
-- 7(블록 게임) / <a href="#">풀이</a>
+- 5(길 찾기 게임) / <a href="#">풀이</a> -----------------------------------못품
+- 6(매칭 점수) / <a href="#">풀이</a> -----------------------------------못품
+- 7(블록 게임) / <a href="#">풀이</a> -----------------------------------못품
 
 
 ### <a href="https://www.acmicpc.net/contest/view/449">UCPC 2019 온라인 예선</a>
 - 17362(수학은 체육과목 입니다 2) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17362/Main.java">풀이</a>
 - 17363(우유가 넘어지면?) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17363/Main.java">풀이</a>
-- 17364(대회) / <a href="#">풀이</a>
-- 17364(별다줄) / <a href="#">풀이</a>
-- 17364(%) / <a href="#">풀이</a>
-- 17364(공교육 도박) / <a href="#">풀이</a>
-- 17364(교점 세기) / <a href="#">풀이</a>
-- 17364(유령의 집) / <a href="#">풀이</a>
-- 17364(육각형 우리 속의 개미) / <a href="#">풀이</a>
-- 17364(이사) / <a href="#">풀이</a>
+- 17364(대회) / <a href="#">풀이</a> -----------------------------------못품
+- 17364(별다줄) / <a href="#">풀이</a> -----------------------------------못품
+- 17364(%) / <a href="#">풀이</a> -----------------------------------못품
+- 17364(공교육 도박) / <a href="#">풀이</a> -----------------------------------못품
+- 17364(교점 세기) / <a href="#">풀이</a> -----------------------------------못품
+- 17364(유령의 집) / <a href="#">풀이</a> -----------------------------------못품
+- 17364(육각형 우리 속의 개미) / <a href="#">풀이</a> -----------------------------------못품
+- 17364(이사) / <a href="#">풀이</a> -----------------------------------못품
 
 
 ## Python3
