@@ -38,13 +38,13 @@
 - 17362(수학은 체육과목 입니다 2) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17362/Main.java">풀이</a>
 - 17363(우유가 넘어지면?) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17363/Main.java">풀이</a>
 - 17364(대회) / <a href="#">풀이</a> -----------------------------------못품
-- 17365(별다줄) / <a href="#">풀이</a> -----------------------------------못품
+- 17365(별다줄) : **Trie** / <a href="#">풀이</a> -----------------------------------Trie만 짜놧음
 - 17366(%) / <a href="#">풀이</a> -----------------------------------못품
 - 17367(공교육 도박) / <a href="#">풀이</a> -----------------------------------나머지 다 짜놧는데 기댓값 식을 못세우겟음;;;
 - 17368(교점 세기) / <a href="#">풀이</a> -----------------------------------못품
 - 17369(유령의 집) / <a href="#">풀이</a> -----------------------------------못품
 - 17370(육각형 우리 속의 개미) : **Back Tracking** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17370/Main.java">풀이</a>
-- 17371(이사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17371/Main.java">풀이</a> -----------------------------------못품
+- 17371(이사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17371/Main.java">풀이</a>
 
 
 ## Python3
@@ -90,6 +90,15 @@
 - 모든 경우의 수를 전부 고려하는 알고리즘. 상태공간을 트리로 나타낼 수 있을 때 적합한 방식
 - 해답이 되는 길을 stack에 저장
 - DFS, BFS 등의 사용
+
+#### Trie
+- 문자열 검색을 빠르게 해주는 자료구조로 K진 트리 형태
+- 주로 스트링을 가지는 동적 셋 혹은 연관 배열을 저장하는데 사용되는 정렬된 트리 자료구조
+- 이진 검색 트리와는 다르게, 트리상에서의 노드들은 그 노드와 연관된 키를 저장하지 않음.
+- 트리상에서의 위치가 현재의 키를 나타낸다. 특정 노드의 모든 후손들은 그 노드에서와 동일한 prefix를 가지며, 루트 노드는 빈 문자열을 갖는다.
+- 값은 모든 노드에서 존재하는 것이 아니고, 말단 노드(leaves) 혹은 특정 키에 해당하는 내부(inner) 노드에서만 존재한다.  
+![1](https://user-images.githubusercontent.com/32935365/64130050-cc066500-cdfa-11e9-9847-edad9d4c458f.PNG)
+
 
 
 [출처]  
