@@ -38,7 +38,7 @@
 - 17362(수학은 체육과목 입니다 2) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17362/Main.java">풀이</a>
 - 17363(우유가 넘어지면?) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17363/Main.java">풀이</a>
 - 17364(대회) / <a href="#">풀이</a> -----------------------------------못품
-- 17365(별다줄) : **Trie** / <a href="#">풀이</a> -----------------------------------Trie만 짜놧음
+- 17365(별다줄) : **Trie** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num17365/Main.java">풀이</a> -----------------------------------Trie만 짜놧음
 - 17366(%) / <a href="#">풀이</a> -----------------------------------못품
 - 17367(공교육 도박) / <a href="#">풀이</a> -----------------------------------나머지 다 짜놧는데 기댓값 식을 못세우겟음;;;
 - 17368(교점 세기) / <a href="#">풀이</a> -----------------------------------못품
