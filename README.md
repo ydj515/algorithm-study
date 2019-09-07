@@ -66,7 +66,7 @@
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12077">프로그래머스 해시</a>
 - 1(완주하지 못한 선수) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num1/Main.java">풀이</a>
 - 2(전화번호 목록) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num2/Main.java">풀이</a>
-- 3(위장) / <a href="#">풀이</a> -----------------------------------못품
+- 3(위장) / <a href="######">풀이</a> -----------------------------------못품
 - 4(베스트앨범) / <a href="#">풀이</a> -----------------------------------못품
 
 
