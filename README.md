@@ -73,14 +73,14 @@
 ## Python3
 
 ## SQL Query
-### <a href="https://programmers.co.kr/learn/courses/30/parts/17042">프로그래머스 SQL Query Practice</a>
-- <a href="https://github.com/ydj515/record-study/tree/master/SQL">Table 현황</a>
-- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/SELECT">SELECT</a>
-- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/SUM,MIN,MAX">SUM, MAX, MIN</a>
-- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/GROUP_BY">GROUP BY</a>
-- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/IS_NULL">IS NULL</a>
-- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/JOIN">JOIN</a>
-- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/String_and_Date">String, Date</a>
+### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=17044">프로그래머스 SQL Query Practice</a>
+<a href="https://github.com/ydj515/record-study/tree/master/SQL">Table 현황</a>
+- SELECT / <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/SELECT">문제 & 풀이</a>
+- SUM, MAX, MIN / <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/SUM,MIN,MAX">문제 & 풀이</a>
+- GROUP BY / <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/GROUP_BY">문제 & 풀이</a>
+- IS NULL / <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/IS_NULL">문제 & 풀이</a>
+- JOIN / <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/JOIN">문제 & 풀이</a>
+- String, Date / <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/String_and_Date">문제 & 풀이</a>
 
 
 ## Algorithm
