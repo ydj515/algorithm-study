@@ -72,6 +72,15 @@
 
 ## Python3
 
+## SQL Query
+### <a href="https://programmers.co.kr/learn/courses/30/parts/17042">프로그래머스 SQL Query Practice</a>
+- <a href="https://github.com/ydj515/record-study/tree/master/SQL">Table 현황</a>
+- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/SELECT">SELECT</a>
+- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/SUM,MIN,MAX">SUM, MAX, MIN</a>
+- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/GROUP_BY">GROUP BY</a>
+- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/IS_NULL">IS NULL</a>
+- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/JOIN">JOIN</a>
+- <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/String_and_Date">String, Date</a>
 
 
 ## Algorithm
