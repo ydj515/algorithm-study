@@ -53,9 +53,9 @@
 - 15902(Split and Merge) / <a href="#">풀이</a> -----------------------------------못품
 - 15900(나무 탈출) : **DFS** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15900/Main.java">풀이</a>
 - 15901(소각로) / <a href="#">풀이</a> -----------------------------------못품
-- 15899(트리와 색깔) / <a href="#">풀이</a> -----------------------------------못품
-- 15904(UCPC는 무엇의 약자일까?) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15904/Main.java">풀이</a> -----------------------------------못품
-- 15897(잘못 구현한 에라토스테네스의 체) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15897/Main.java">풀이</a> -----------------------------------못품
+- 15899(트리와 색깔) : **DFS**, **Merge Sort Tree** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15899/Main.java">풀이</a>
+- 15904(UCPC는 무엇의 약자일까?) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15904/Main.java">풀이</a> 
+- 15897(잘못 구현한 에라토스테네스의 체) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15897/Main.java">풀이</a>
 - 15898(피아의 아틀리에 ~신비한 대회의 연금술사~) / <a href="#">풀이</a> -----------------------------------못품
 - 15896(&+ +&) / <a href="#">풀이</a> -----------------------------------못품
 - 15890(전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15890/Main.java">풀이</a>
