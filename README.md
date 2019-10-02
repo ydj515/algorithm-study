@@ -57,7 +57,7 @@
 - 15904(UCPC는 무엇의 약자일까?) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15904/Main.java">풀이</a> 
 - 15897(잘못 구현한 에라토스테네스의 체) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15897/Main.java">풀이</a>
 - 15898(피아의 아틀리에 ~신비한 대회의 연금술사~) / <a href="#">풀이</a> -----------------------------------못품
-- 15896(&+ +&) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15896/Main.java">풀이</a> -----------------------------------소괄호 2번 먼소린지 이해가 되질 않아용
+- 15896(&+ +&) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15896/Main.java">풀이</a> -----------------------------------1번만 풀고, 2번 은 먼소린지 이해가 되질 않아용
 - 15890(전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15890/Main.java">풀이</a>
 - 15891(스타트링크 사무실을 파헤쳐보자) / <a href="#">풀이</a> -----------------------------------못품
 - 15892(사탕 줍는 로봇) / <a href="#">풀이</a> -----------------------------------못품
@@ -81,7 +81,7 @@
 - IS NULL / <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/IS_NULL">문제 & 풀이</a>
 - JOIN / <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/JOIN">문제 & 풀이</a>
 - String, Date / <a href="https://github.com/ydj515/Algorithm_study/blob/master/SQL/String_and_Date">문제 & 풀이</a>
---
+
 
 ## Algorithm
 ### BFS
