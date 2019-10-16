@@ -73,7 +73,7 @@
 ### <a href="https://www.acmicpc.net/problem/tag/그리디%20알고리즘">Greedy</a>
 - 11399(ATM) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num11399/Main.java">풀이</a>
 - 11047(동전 0) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num11047/Main.java">풀이</a>
-
+- 1931(회의실 배정) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1931/Main.java">풀이</a>
 
 
 
