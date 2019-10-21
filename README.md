@@ -74,9 +74,10 @@
 - 11399(ATM) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num11399/Main.java">풀이</a>
 - 11047(동전 0) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num11047/Main.java">풀이</a>
 - 1931(회의실 배정) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1931/Main.java">풀이</a>
-
-
-
+- 5585(거스름돈) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num5585/Main.java">풀이</a>
+- 2217(로프) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num2217/Main.java">풀이</a>
+- 10610(30) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num10610/Main.java">풀이</a>
+- 2875(대회 or 인턴) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num2875/Main.java">풀이</a>
 
 ## Python3
 
