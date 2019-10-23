@@ -78,6 +78,9 @@
 - 2217(로프) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num2217/Main.java">풀이</a>
 - 10610(30) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num10610/Main.java">풀이</a>
 - 2875(대회 or 인턴) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num2875/Main.java">풀이</a>
+- 1120(문자열) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1120/Main.java">풀이</a>
+- 1541(잃어버린 괄호) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1541/Main.java">풀이</a>
+
 
 ## Python3
 
