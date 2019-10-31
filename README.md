@@ -81,6 +81,11 @@
 - 1120(문자열) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1120/Main.java">풀이</a>
 - 1541(잃어버린 괄호) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1541/Main.java">풀이</a>
 - 1946(신입 사원) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1946/Main.java">풀이</a>
+- 1049(기타줄) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1049/Main.java">풀이</a>
+
+### <a href="https://www.acmicpc.net/problem/tag/BFS">BFS</a>
+- 1260(DFS와 BFS) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1260/Main.java">풀이</a>
+- 1278(미로탐색) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num2178/Main.java">풀이</a>
 
 ## Python3
 
