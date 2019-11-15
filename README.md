@@ -85,7 +85,7 @@
 
 ### <a href="https://www.acmicpc.net/problem/tag/BFS">BFS</a>
 - 1260(DFS와 BFS) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1260/Main.java">풀이</a>
-- 1278(미로탐색) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num2178/Main.java">풀이</a>
+- 1278(미로탐색) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1278/Main.java">풀이</a>
 
 ## Python3
 
