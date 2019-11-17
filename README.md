@@ -69,6 +69,13 @@
 - 3(위장) / <a href="######">풀이</a> -----------------------------------못품
 - 4(베스트앨범) / <a href="#">풀이</a> -----------------------------------못품
 
+### <a href="https://github.com/ydj515/Algorithm_study">Special Judge</a>
+- ict1(기념품 가게) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict1/Main.java">풀이</a>
+- ict2(차새차 뽑기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict2/Main.java">풀이</a>
+- ict3(완벽한 기사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict3/Main.java">풀이</a>
+- ict4(새로운 체스) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict4/Main.java">풀이</a>
+
+
 
 ### <a href="https://www.acmicpc.net/problem/tag/그리디%20알고리즘">Greedy</a>
 - 11399(ATM) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num11399/Main.java">풀이</a>
@@ -86,6 +93,8 @@
 ### <a href="https://www.acmicpc.net/problem/tag/BFS">BFS</a>
 - 1260(DFS와 BFS) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1260/Main.java">풀이</a>
 - 1278(미로탐색) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num1278/Main.java">풀이</a>
+
+
 
 ## Python3
 
