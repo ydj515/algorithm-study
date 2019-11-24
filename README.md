@@ -72,8 +72,8 @@
 ### <a href="https://github.com/ydj515/Algorithm_study">Special Judge</a>
 - ict1(기념품 가게) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict1/Main.java">풀이</a>
 - ict2(차새차 뽑기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict2/Main.java">풀이</a>
-- ict3(완벽한 기사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict3/Main.java">풀이</a>
-- ict4(새로운 체스) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict4/Main.java">풀이</a>
+- ict3(완벽한 기사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict3/Main.java">풀이</a> -----------------------------------덜품
+- ict4(새로운 체스) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict4/Main.java">풀이</a> -----------------------------------못품
 
 
 
