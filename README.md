@@ -69,10 +69,11 @@
 - 3(위장) / <a href="######">풀이</a> -----------------------------------못품
 - 4(베스트앨범) / <a href="#">풀이</a> -----------------------------------못품
 
-### <a href="https://programmers.co.kr/learn/courses/30/parts/12198">프로그래머스 정</a>
-- 1(K번째 ) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/sort/num1/Main.java">풀이</a>
+### <a href="https://programmers.co.kr/learn/courses/30/parts/12198">프로그래머스 정렬</a>
+- 1(K번째 수) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/sort/num1/Main.java">풀이</a>
 
-
+### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12230">프로그래머스 완전탐색</a>
+- 1(모의고사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/search/num1/Main.java">풀이</a>
 
 ### <a href="https://github.com/ydj515/Algorithm_study">Special Judge</a>
 - ict1(기념품 가게) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict1/Main.java">풀이</a>
