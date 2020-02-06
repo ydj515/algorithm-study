@@ -56,7 +56,7 @@
 - 15899(트리와 색깔) : **DFS**, **Merge Sort Tree** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15899/Main.java">풀이</a>
 - 15904(UCPC는 무엇의 약자일까?) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15904/Main.java">풀이</a> 
 - 15897(잘못 구현한 에라토스테네스의 체) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15897/Main.java">풀이</a>
-- 15898(피아의 아틀리에 ~신비한 대회의 연금술사~) / <a href="#">풀이</a> -----------------------------------못품
+- 15898(피아의 아틀리에 신비한 대회의 연금술사) / <a href="#">풀이</a> -----------------------------------못품
 - 15896(&+ +&) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15896/Main.java">풀이</a> -----------------------------------1번만 풀고, 2번 은 먼소린지 이해가 되질 않아용
 - 15890(전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15890/Main.java">풀이</a>
 - 15891(스타트링크 사무실을 파헤쳐보자) / <a href="#">풀이</a> -----------------------------------못품
@@ -70,10 +70,24 @@
 - 4(베스트앨범) / <a href="#">풀이</a> -----------------------------------못품
 
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12198">프로그래머스 정렬</a>
-- 1(K번째 수) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/sort/num1/Main.java">풀이</a>
+- 1(K번째 수) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num1/Main.java">풀이</a>
+- 1(가장 큰 수) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num2/Main.java">풀이</a>
+- 1(H-Index) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num3/Main.java">풀이</a>
 
 ### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12230">프로그래머스 완전탐색</a>
 - 1(모의고사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/search/num1/Main.java">풀이</a>
+- 2(소수 찾기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/search/num2/Main.java">풀이</a>
+- 3(숫자 야구) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/search/num3/Main.java">풀이</a>
+- 4(카펫) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/search/num4/Main.java">풀이</a>
+
+### <a https://programmers.co.kr/learn/challenges?selected_part_id=12079">프로그래머스 연습문제</a>
+- 1(2016년) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num1/Main.java">풀이</a>
+- 2(가운데 글자 가져오기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num2/Main.java">풀이</a>
+- 3(같은 숫자는 싫어) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num3/Main.java">풀이</a>
+- 4(나누어 떨어지는 숫자 배열) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num4/Main.java">풀이</a>
+- 5(2016년) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num5/Main.java">풀이</a>
+
+
 
 ### <a href="https://github.com/ydj515/Algorithm_study">Special Judge</a>
 - ict1(기념품 가게) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/ict1/Main.java">풀이</a>
