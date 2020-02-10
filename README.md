@@ -71,8 +71,8 @@
 
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12198">프로그래머스 정렬</a>
 - 1(K번째 수) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num1/Main.java">풀이</a>
-- 1(가장 큰 수) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num2/Main.java">풀이</a>
-- 1(H-Index) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num3/Main.java">풀이</a>
+- 2(가장 큰 수) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num2/Main.java">풀이</a>
+- 3(H-Index) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num3/Main.java">풀이</a>
 
 ### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12230">프로그래머스 완전탐색</a>
 - 1(모의고사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/search/num1/Main.java">풀이</a>
