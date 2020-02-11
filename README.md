@@ -83,12 +83,12 @@
 ### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12230">프로그래머스 탐욕법</a>
 - 1(모의고사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num1/Main.java">풀이</a>
 
-### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12079">프로그래머스 연습문제</a>
+### <a href="https://programmers.co.kr/learn/courses/30">프로그래머스 연습문제</a>
 - 1(2016년) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num1/Main.java">풀이</a>
 - 2(가운데 글자 가져오기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num2/Main.java">풀이</a>
 - 3(같은 숫자는 싫어) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num3/Main.java">풀이</a>
 - 4(나누어 떨어지는 숫자 배열) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num4/Main.java">풀이</a>
-- 5(2016년) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num5/Main.java">풀이</a>
+- 5(두 정수 사이의 합) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num5/Main.java">풀이</a>
 
 
 
