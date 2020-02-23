@@ -89,6 +89,12 @@
 - 3(같은 숫자는 싫어) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num3/Main.java">풀이</a>
 - 4(나누어 떨어지는 숫자 배열) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num4/Main.java">풀이</a>
 - 5(두 정수 사이의 합) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num5/Main.java">풀이</a>
+- 6(문자열 내 마음대로 정렬하기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num6/Main.java">풀이</a>
+- 7(문자열 내 p와 y의 개수) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num7/Main.java">풀이</a>
+- 8(문자열 내림차순으로 배치하기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num8/Main.java">풀이</a>
+- 9(문자열 다루기 기본) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num9/Main.java">풀이</a>
+- 10(서울에서 김서방 찾기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num10/Main.java">풀이</a>
+- 11(소수 찾기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num11/Main.java">풀이</a>
 
 
 
