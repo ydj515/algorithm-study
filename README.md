@@ -69,6 +69,9 @@
 - 3(위장) / <a href="######">풀이</a> -----------------------------------못품
 - 4(베스트앨범) / <a href="#">풀이</a> -----------------------------------못품
 
+### <a href="https://programmers.co.kr/learn/courses/30/parts/12081">프로그래머스 스택/큐</a>
+- 4(프린터) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/stackqueue/num4/Main.java">풀이</a>
+
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12198">프로그래머스 정렬</a>
 - 1(K번째 수) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num1/Main.java">풀이</a>
 - 2(가장 큰 수) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num2/Main.java">풀이</a>
