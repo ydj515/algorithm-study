@@ -1,4 +1,4 @@
-package programmers.hash.num2;
+package programmers.hash.num3;
 
 import java.util.*;
 class Solution {
