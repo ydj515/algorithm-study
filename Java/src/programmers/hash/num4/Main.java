@@ -1,7 +1,7 @@
-package programmers.hash.num4;
-
 import java.util.*;
+
 class Solution {
+	
 	public int[] solution(String[] genres, int[] plays) {
 
 		List<Integer> answerPlayTimeList = new ArrayList<>(); // playTime 담는 ArrayList

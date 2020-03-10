@@ -1,7 +1,8 @@
-package programmers.hash.num3;
 
 import java.util.*;
+
 class Solution {
+	
     public int solution(String[][] clothes) {
         
         int answer = 1; // 곱셈을 위해 1로 선언

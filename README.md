@@ -67,7 +67,7 @@
 - 1(완주하지 못한 선수) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num1/Main.java">풀이</a>
 - 2(전화번호 목록) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num2/Main.java">풀이</a>
 - 3(위장) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num3/Main.java">풀이</a>
-- 4(베스트앨범) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num2/Main.java">풀이</a> -----------------------------------더덜더럳품
+- 4(베스트앨범) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num4/Main.java">풀이</a> 
 
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12081">프로그래머스 스택/큐</a>
 - 4(프린터) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/stackqueue/num4/Main.java">풀이</a>
@@ -85,6 +85,13 @@
 
 ### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12230">프로그래머스 탐욕법</a>
 - 1(모의고사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num1/Main.java">풀이</a>
+
+### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12230">프로그래머스 깊이/너비 우선 탐색</a>
+- 1(타겟 넘버) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num1/Main.java">풀이</a>
+- 2(네트워크) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num2/Main.java">풀이</a>
+- 3(단어 변환) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num3/Main.java">풀이</a>
+- 4(여행경로) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num4/Main.java">풀이</a>
+
 
 ### <a href="https://programmers.co.kr/learn/courses/30">프로그래머스 연습문제</a>
 - 1(2016년) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num1/Main.java">풀이</a>

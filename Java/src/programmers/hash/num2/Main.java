@@ -1,4 +1,4 @@
-package programmers.hash.num2;
+import java.util.*;
 
 public class Main {
 

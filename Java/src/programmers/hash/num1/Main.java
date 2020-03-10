@@ -1,7 +1,4 @@
-package programmers.hash.num1;
-
-import java.util.HashMap;
-import java.util.Set;
+import java.util.*;
 
 public class Main {
 
