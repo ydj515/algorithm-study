@@ -13,17 +13,21 @@ class Solution {
         Arrays.sort(arr, new Comparator<String>() {
             @Override
             public int compare(String s1, String s2) {
-                return (s2+s1).compareTo(s1+s2);
+            	System.out.println("s2 + s1 : " + s2+s1 + ", s1 + s2 : " + s1+s2 + " | " + (s2+s1).compareTo(s1+s2));
+                return (s2+s1).compareTo(s1+s2); // 음수 : 앞에가 뒤보다 작을 때. 양수 : 앞이 뒤보다 클 때
             }
         });
         
         //0000 처럼 0으로만 구성되어있으면 0 return
-        if (arr[0].equals("0")) return "0";
+        if (arr[0].equals("0")) {
+        	return "0";
+        }
         
         //그 외의 경우 순차적으로 연결하여 answer return
         for (int i = 0; i < arr.length; i++) {
             answer+=arr[i];
         }
+        
         return answer;
 	}
 }
