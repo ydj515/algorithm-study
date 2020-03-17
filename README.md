@@ -96,7 +96,7 @@
 - 1(타겟 넘버) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num1/Main.java">풀이</a>
 - 2(네트워크) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num2/Main.java">풀이</a>
 - 3(단어 변환) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num3/Main.java">풀이</a>
-- 4(여행경로) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num4/Main.java">풀이</a>
+- 4(여행경로) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num4/Main.java">풀이</a> -----------------------------------못품
 
 
 ### <a href="https://programmers.co.kr/learn/courses/30">프로그래머스 연습문제</a>
