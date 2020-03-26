@@ -1,63 +1,29 @@
 import java.util.*;
-import java.util.stream.*;
 class Solution {
-    public int solution(int[][] baseball) {
+    public int[] solution(int brown, int red) {
 
-        List<Integer> list = new ArrayList<>();
-        List<Integer> answerTempList = new ArrayList<>();
+        int[] answer = new int[2];
 
-        // 전체 나올 수 있는 야구 게임의 경우의 수
-        for (int i = 123; i <= 987; i++) {
+        // 가로가 항상 길다.
+        // brown + red
+        // red가 1이면 brown은 3이상
+        // red가 2이면 brown은 4
+        // 카펫의 가로 길이는 세로 길이와 같거나, 세로 길이보다 깁니다.
 
-            String temp = String.valueOf(i); // 자리 비교하기에 String이 편해서 변환했음
-
-            if (temp.charAt(0) == temp.charAt(1) || temp.charAt(1) == temp.charAt(2) || temp.charAt(2) == temp.charAt(0) || // 중복 검사
-                    temp.charAt(0) == '0' || temp.charAt(1) == '0' || temp.charAt(2) == '0') // 0 유무 검사
-                continue;
-
-            list.add(Integer.parseInt(temp));
-        }
-
-        // System.out.println(list);
-
-
-        for (int i = 0; i < baseball.length; i++) {
-
-            String baseballTemp = String.valueOf(baseball[i][0]); // 입력 받은 볼
-            // System.out.println("======");
-            // System.out.println(baseballTemp);
-
-
-            int strike = 0;
-            int ball = 0;
-
-
-            for (int j = 0; j < list.size(); j++) {
-
-                String listTemp = String.valueOf(list.get(j)); // 리스트에서 하나씩 꺼냄
-                // System.out.println(listTemp);
-
-                // count strike
-                strike = IntStream.range(0, 3).map(k -> (baseballTemp.charAt(k) == listTemp.charAt(k)) ? 1 : 0).sum();
-
-                // count  ball
-                ball = IntStream.range(0, 3).map(k -> ((baseballTemp.charAt(k) == listTemp.charAt((k + 1) % 3)) || (baseballTemp.charAt(k) == listTemp.charAt((k + 2) % 3))) ? 1 : 0).sum();
-
-                // System.out.println("strike : " + strike + ", ball : " + ball);
-
-                if(strike == baseball[i][1] && ball == baseball[i][2]) {
-                    answerTempList.add(list.get(j)); // 될 수 있는 후보군을 임시로 담는 list
+        for (int i = 1; i <= red; i++) {
+            if ((red % i) == 0) {
+                if (((2 * i) + (2 * red / i) + 4) == brown) {
+                    answer[0] = (red / i) + 2;
+                    answer[1] = i + 2;
+                    break;
                 }
-
             }
-
-            list.clear();
-            list.addAll(answerTempList); // 후보군 list를 정답지로 대체
-            answerTempList.clear();
         }
 
-        // System.out.println(list);
+        // System.out.println(answer[0]);
+        // System.out.println(answer[1]);
 
-        return list.size();
+
+        return answer;
     }
 }
