@@ -70,7 +70,12 @@
 - 4(베스트앨범) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num4/Main.java">풀이</a> 
 
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12081">프로그래머스 스택/큐</a>
+- 1(탑) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/stackqueue/num1/Main.java">풀이</a>
+- 2(다리를 지나는 트럭) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/stackqueue/num2/Main.java">풀이</a>
+- 3(기능개발) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/stackqueue/num3/Main.java">풀이</a>
 - 4(프린터) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/stackqueue/num4/Main.java">풀이</a>
+- 5(쇠막대기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/stackqueue/num5/Main.java">풀이</a>
+- 6(주식가격) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/stackqueue/num6/Main.java">풀이</a>
 
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12198">프로그래머스 정렬</a>
 - 1(K번째 수) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num1/Main.java">풀이</a>
