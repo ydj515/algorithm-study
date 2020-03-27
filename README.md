@@ -90,7 +90,7 @@
 
 ### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12230">프로그래머스 탐욕법</a>
 - 1(모의고사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num1/Main.java">풀이</a>
-- 2(조이스틱) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num2/Main.java">풀이</a>
+- 2(조이스틱) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num2/Main.java">풀이</a> ---- test case 11만 안넘어가요..
 - 3(큰 수 만들기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num3/Main.java">풀이</a>
 - 4(구명보트) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num4/Main.java">풀이</a>
 - 5(단속카메라) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num5/Main.java">풀이</a>
