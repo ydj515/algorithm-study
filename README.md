@@ -95,7 +95,7 @@
 - 4(구명보트) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num4/Main.java">풀이</a>
 - 5(단속카메라) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num5/Main.java">풀이</a>
 - 6(섬 연결하기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num6/Main.java">풀이</a>
-- 7(저울) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num7/Main.java">풀이</a>
+- 7(저울) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num7/Main.java">풀이</a> -------- 못품 
 
 ### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12230">프로그래머스 깊이/너비 우선 탐색</a>
 - 1(타겟 넘버) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num1/Main.java">풀이</a>
@@ -103,6 +103,20 @@
 - 3(단어 변환) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num3/Main.java">풀이</a>
 - 4(여행경로) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num4/Main.java">풀이</a> -----------------------------------못품
 
+### <a href="https://programmers.co.kr/learn/courses/30/parts/12263">프로그래머스 동적 계획법</a>
+- 1(N으로 표현) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num1/Main.java">풀이</a>
+- 2(타일 장식물) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num2/Main.java">풀이</a>
+- 3(정수 삼각형) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num3/Main.java">풀이</a>
+- 4(등굣길) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num4/Main.java">풀이</a>
+- 5카드 게임) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num5/Main.java">풀이</a>
+- 6(도둑질) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num6/Main.java">풀이</a>
+- 7(서울에서 경산까지) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num7/Main.java">풀이</a>
+
+### <a href="https://programmers.co.kr/learn/courses/30/parts/12263">프로그래머스 힙</a>
+- 1(더 맵게) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/heap/num1/Main.java">풀이</a>
+- 2(라면 공장) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/heap/num2/Main.java">풀이</a>
+- 3(디스크 컨트롤러) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/heap/num3/Main.java">풀이</a>
+- 4(이중우선순위큐) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/heap/num4/Main.java">풀이</a>
 
 ### <a href="https://programmers.co.kr/learn/courses/30">프로그래머스 연습문제</a>
 - 1(2016년) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num1/Main.java">풀이</a>
