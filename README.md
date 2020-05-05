@@ -118,6 +118,12 @@
 - 3(디스크 컨트롤러) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/heap/num3/Main.java">풀이</a>
 - 4(이중우선순위큐) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/heap/num4/Main.java">풀이</a>
 
+### <a href="https://programmers.co.kr/learn/courses/30/parts/12486">프로그래머스 이분탐색</a>
+- 1(예산) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/bianrysearch/num1/Main.java">풀이</a>
+- 2(입국 심사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/bianrysearch/num2/Main.java">풀이</a>
+- 3(징검다리) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/bianrysearch/num3/Main.java">풀이</a>
+
+
 ### <a href="https://programmers.co.kr/learn/courses/30">프로그래머스 연습문제</a>
 - 1(2016년) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num1/Main.java">풀이</a>
 - 2(가운데 글자 가져오기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/practice/num2/Main.java">풀이</a>
