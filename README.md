@@ -7,10 +7,33 @@
 ## Java
 
 
+### <a href="https://tech.kakao.com/2020/04/01/2019-internship-test/">2019 카카오 개발자 겨울 인턴쉽 코딩 테스트</a>
+- 1(단체사진찍기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/2019winter/test2019/num1/Main.java">풀이</a>
+- 1(튜플) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/2019winter/test2019/num2/Main.java">풀이</a>
+
+
+### <a href="https://tech.kakao.com/2017/09/13/code-festival-round-2/">2017 카카오코드 본선</a>
+- 1(오픈채팅방) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/final/2017/num1/Main.java">풀이</a>
+
+
+### <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">2019 카카오 신입 공채 1차 코딩 테스트 문제</a>
+- 1(오픈채팅방) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num1/Main.java">풀이</a>
+- 2(실패율) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num2/Main.java">풀이</a>
+- 3(후보키) : **Bits 연산** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num3/Main.java">풀이</a>
+- 4(무지의 먹방 라이브) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num4/Main.java">풀이</a>
+- 5(길 찾기 게임) / <a href="#">풀이</a> -----------------------------------못품
+- 6(매칭 점수) / <a href="#">풀이</a> -----------------------------------못품
+- 7(블록 게임) / <a href="#">풀이</a> -----------------------------------못품
+
+
 ### <a href="https://www.acmicpc.net/category/detail/1897">카카오 코드 페스티벌 2018 예선</a>
 - 15953(상금 헌터) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15953/Main.java">풀이</a>
 - 15954(인형들) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15954/Main.java">풀이</a>
 - 15956(숏코딩) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15956/Main.java">풀이</a>
+
+
+### <a href="##">Summer/Winter Coding (~2018)</a>
+- 1(스킬트리) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/summerwinter/2018/num1/Main.java">풀이</a>
 
 
 ### <a href="https://www.acmicpc.net/category/detail/1945">2018 홍익대학교 컴퓨터공학과 코딩대회</a>
@@ -22,16 +45,6 @@
 - 16401(과자 나눠주기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16401/Main.java">풀이</a>
 - 16402(제국) : **Union Find** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16402/Main.java">풀이</a>
 - 16404(주식회사 승범이네) : **Segment Tree & Lazy Propagation & DFS Order(전위순회)** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num16404/Main.java">풀이</a>
-
-
-### <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">2019 카카오 신입 공채 1차 코딩 테스트 문제</a>
-- 1(오픈채팅방) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num1/Main.java">풀이</a>
-- 2(실패율) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num2/Main.java">풀이</a>
-- 3(후보키) : **Bits 연산** / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num3/Main.java">풀이</a>
-- 4(무지의 먹방 라이브) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2019/num4/Main.java">풀이</a>
-- 5(길 찾기 게임) / <a href="#">풀이</a> -----------------------------------못품
-- 6(매칭 점수) / <a href="#">풀이</a> -----------------------------------못품
-- 7(블록 게임) / <a href="#">풀이</a> -----------------------------------못품
 
 
 ### <a href="https://www.acmicpc.net/contest/view/449">UCPC 2019 온라인 예선</a>
@@ -63,11 +76,13 @@
 - 15892(사탕 줍는 로봇) / <a href="#">풀이</a> -----------------------------------못품
 - 15893(가장 긴 공통부분 팰린드롬) / <a href="#">풀이</a> -----------------------------------못품
 
+
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12077">프로그래머스 해시</a>
 - 1(완주하지 못한 선수) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num1/Main.java">풀이</a>
 - 2(전화번호 목록) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num2/Main.java">풀이</a>
 - 3(위장) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num3/Main.java">풀이</a>
 - 4(베스트앨범) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/hash/num4/Main.java">풀이</a> 
+
 
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12081">프로그래머스 스택/큐</a>
 - 1(탑) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/stackqueue/num1/Main.java">풀이</a>
@@ -77,16 +92,19 @@
 - 5(쇠막대기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/stackqueue/num5/Main.java">풀이</a>
 - 6(주식가격) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/stackqueue/num6/Main.java">풀이</a>
 
+
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12198">프로그래머스 정렬</a>
 - 1(K번째 수) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num1/Main.java">풀이</a>
 - 2(가장 큰 수) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num2/Main.java">풀이</a>
 - 3(H-Index) / <a href="https://github.com/ydj515/Algorithm_study/tree/master/Java/src/programmers/sort/num3/Main.java">풀이</a>
+
 
 ### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12230">프로그래머스 완전탐색</a>
 - 1(모의고사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/search/num1/Main.java">풀이</a>
 - 2(소수 찾기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/search/num2/Main.java">풀이</a>
 - 3(숫자 야구) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/search/num3/Main.java">풀이</a>
 - 4(카펫) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/search/num4/Main.java">풀이</a>
+
 
 ### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12230">프로그래머스 탐욕법</a>
 - 1(모의고사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num1/Main.java">풀이</a>
@@ -97,20 +115,23 @@
 - 6(섬 연결하기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num6/Main.java">풀이</a>
 - 7(저울) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/greedy/num7/Main.java">풀이</a> -------- 못품 
 
+
 ### <a href="https://programmers.co.kr/learn/challenges?selected_part_id=12230">프로그래머스 깊이/너비 우선 탐색</a>
 - 1(타겟 넘버) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num1/Main.java">풀이</a>
 - 2(네트워크) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num2/Main.java">풀이</a>
 - 3(단어 변환) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num3/Main.java">풀이</a>
 - 4(여행경로) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/dfsbfs/num4/Main.java">풀이</a> -----------------------------------못품
 
+
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12263">프로그래머스 동적 계획법</a>
-- 1(N으로 표현) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num1/Main.java">풀이</a>
+- 1(N으로 표현) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num1/Main.java">풀이</a> -----------------------------------못품
 - 2(타일 장식물) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num2/Main.java">풀이</a>
 - 3(정수 삼각형) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num3/Main.java">풀이</a>
 - 4(등굣길) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num4/Main.java">풀이</a>
 - 5카드 게임) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num5/Main.java">풀이</a>
-- 6(도둑질) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num6/Main.java">풀이</a>
+- 6(도둑질) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num6/Main.java">풀이</a> -----------------------------------못품
 - 7(서울에서 경산까지) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/DP/num7/Main.java">풀이</a>
+
 
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12263">프로그래머스 힙</a>
 - 1(더 맵게) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/heap/num1/Main.java">풀이</a>
@@ -118,10 +139,11 @@
 - 3(디스크 컨트롤러) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/heap/num3/Main.java">풀이</a>
 - 4(이중우선순위큐) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/heap/num4/Main.java">풀이</a>
 
+
 ### <a href="https://programmers.co.kr/learn/courses/30/parts/12486">프로그래머스 이분탐색</a>
 - 1(예산) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/bianrysearch/num1/Main.java">풀이</a>
-- 2(입국 심사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/bianrysearch/num2/Main.java">풀이</a>
-- 3(징검다리) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/bianrysearch/num3/Main.java">풀이</a>
+- 2(입국 심사) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/bianrysearch/num2/Main.java">풀이</a> -----------------------------------못품
+- 3(징검다리) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/programmers/bianrysearch/num3/Main.java">풀이</a> -----------------------------------못품
 
 
 ### <a href="https://programmers.co.kr/learn/courses/30">프로그래머스 연습문제</a>
