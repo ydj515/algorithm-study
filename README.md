@@ -25,6 +25,15 @@
 - 6(매칭 점수) / <a href="#">풀이</a> -----------------------------------못품
 - 7(블록 게임) / <a href="#">풀이</a> -----------------------------------못품
 
+### <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">2020 카카오 신입 공채 1차 코딩 테스트 문제</a>
+- 1(문자열압축) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num1/Main.java">풀이</a>
+- 2(괄호변환) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num2/Main.java">풀이</a>
+- 3(자물쇠와 열쇠) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num3/Main.java">풀이</a>
+- 4(가사 검색) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num4/Main.java">풀이</a>
+- 5(기둥과 보 설치) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num5/Main.java">풀이</a>
+- 6(외벽 점검) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num6/Main.java">풀이</a>
+- 7(블록 이동하기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num7/Main.java">풀이</a>
+
 
 ### <a href="https://www.acmicpc.net/category/detail/1897">카카오 코드 페스티벌 2018 예선</a>
 - 15953(상금 헌터) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/num15953/Main.java">풀이</a>
