@@ -8,12 +8,12 @@
 
 
 ### <a href="https://tech.kakao.com/2020/04/01/2019-internship-test/">2019 카카오 개발자 겨울 인턴쉽 코딩 테스트</a>
-- 1(단체사진찍기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/2019winter/test2019/num1/Main.java">풀이</a>
-- 1(튜플) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/2019winter/test2019/num2/Main.java">풀이</a>
+- 1(크레인 인형 뽑기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/internship/2019winter/num1/Main.java">풀이</a>
+- 2(튜플) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/internship/2019winter/num2/Main.java">풀이</a>
 
 
 ### <a href="https://tech.kakao.com/2017/09/13/code-festival-round-2/">2017 카카오코드 본선</a>
-- 1(오픈채팅방) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/final/2017/num1/Main.java">풀이</a>
+- 1(단체사진찍기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/final/2017/num1/Main.java">풀이</a>
 
 
 ### <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">2019 카카오 신입 공채 1차 코딩 테스트 문제</a>
@@ -25,7 +25,7 @@
 - 6(매칭 점수) / <a href="#">풀이</a> -----------------------------------못품
 - 7(블록 게임) / <a href="#">풀이</a> -----------------------------------못품
 
-### <a href="http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/">2020 카카오 신입 공채 1차 코딩 테스트 문제</a>
+### <a href="https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/">2020 카카오 신입 공채 1차 코딩 테스트 문제</a>
 - 1(문자열압축) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num1/Main.java">풀이</a>
 - 2(괄호변환) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num2/Main.java">풀이</a>
 - 3(자물쇠와 열쇠) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num3/Main.java">풀이</a>
