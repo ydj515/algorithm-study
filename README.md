@@ -29,7 +29,7 @@
 - 1(문자열압축) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num1/Main.java">풀이</a>
 - 2(괄호변환) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num2/Main.java">풀이</a>
 - 3(자물쇠와 열쇠) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num3/Main.java">풀이</a>
-- 4(가사 검색) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num4/Main.java">풀이</a>
+- 4(가사 검색) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num4/Main.java">풀이</a> -- trie
 - 5(기둥과 보 설치) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num5/Main.java">풀이</a>
 - 6(외벽 점검) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num6/Main.java">풀이</a>
 - 7(블록 이동하기) / <a href="https://github.com/ydj515/Algorithm_study/blob/master/Java/src/kakao/blind/test2020/num7/Main.java">풀이</a>
