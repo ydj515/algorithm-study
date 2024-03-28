@@ -11,6 +11,7 @@ class Solution {
 		ArrayList<Integer> arrayList = new ArrayList<>(Arrays.asList(arr));
 
 		// 내림차순 정렬
+        // 3명이상이 탈수있다면 조건이 더 까다로워지겠지만 어짜피 미달이어도 최대 2명뿐이라서 젤 가벼운 사람부터 태워도 무방
 		arrayList.sort(Comparator.reverseOrder());
 
 		// 가장 큰 수와 가작 작은수를 배에 태워 보내면 됨
