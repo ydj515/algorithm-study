@@ -1,8 +1,8 @@
 import java.util.*;
+
 class Solution {
 
-    class Route implements Comparable<Route> {
-
+    class Route {
         int start;
         int end;
 
@@ -11,52 +11,42 @@ class Solution {
             this.end = end;
         }
 
-        @Override
-        public int compareTo(Route o) {
+        public int getEnd() {
+            return end;
+        }
 
-            int standard = start - o.start; // 시작하 시간 순으로 정렬
-
-            if (standard == 0) { // 끝나는 시간이 같다면 끝나는 시간순으로 정렬
-                standard = start - o.start;
-            }
-
-            return standard;
+        public int getStart() {
+            return start;
         }
     }
 
     public int solution(int[][] routes) {
 
-        int answer = 1; // 무조건 1대는 설치 되자나
+        int answer = 0;
 
         List<Route> list = new ArrayList<>();
 
-        for (int i = 0; i < routes.length; i++) {
-            list.add(new Route(routes[i][0], routes[i][1]));
+        for (int[] route : routes) {
+            list.add(new Route(route[0], route[1]));
         }
 
-        // 정렬해서 사용
-        Collections.sort(list);
+        // 끝나는 시간 오름차순으로 정렬
+        list.sort(Comparator.comparing(Route::getEnd));
 
-        // for (int i = 0; i < list.size(); i++) {
-        //     System.out.println(list.get(i).start + ", " + list.get(i).end);
-        // }
+        int cursor = -30001;
 
-        int cur = list.get(0).end;
-
-        for (int i = 1; i < routes.length; i++) {
-
-            if (list.get(i).end < cur) {
-                cur = list.get(i).end;
-            }
-
-            if (list.get(i).start > cur) {
+        for(Route route : list) {
+            if(cursor < route.getStart()) {
+                cursor=route.getEnd();
                 answer++;
-                cur = list.get(i).end;
             }
         }
-
-        // System.out.println(answer);
-
+        for (int[] r : routes) {
+            if (cursor < r[0]) {
+                cursor = r[1];
+                answer++; //카메라 설치
+            }
+        }
         return answer;
     }
 }
