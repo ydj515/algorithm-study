@@ -63,7 +63,7 @@ class Solution {
         long answer = right; // 정답을 최댓값으로 초기화
 
         while (left <= right) {
-            long mid = left + (right - left) / 2;
+            long mid = left + (right - left) / 2; // '(left + right) / 2' 를 쓰지 않음. 숫자가 너무 크기때문에 오버플로우 방지
             long sum = 0; // mid 시간 동안 심사할 수 있는 총 사람의 수
 
             // 각 심사관이 mid 시간 동안 몇 명을 처리할 수 있는지 계산하여 합산
