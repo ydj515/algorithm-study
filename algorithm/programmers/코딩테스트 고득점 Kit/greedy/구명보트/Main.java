@@ -1,40 +1,30 @@
-import java.util.*;
+import java.util.Arrays;
+
 class Solution {
-	public int solution(int[] people, int limit) {
+    public int solution(int[] people, int limit) {
+        int answer = 0;
         
-        // arraylist remove로 처음에 했다가 시간 초과났다.
-        // 그래서 remove하지말고 pointer로 움직이는 방식으로 접근
-
-		int answer = 0;
-
-        Integer[] arr = Arrays.stream(people).boxed().toArray(Integer[]::new);
-		ArrayList<Integer> arrayList = new ArrayList<>(Arrays.asList(arr));
-
-		// 내림차순 정렬
-        // 3명이상이 탈수있다면 조건이 더 까다로워지겠지만 어짜피 미달이어도 최대 2명뿐이라서 젤 가벼운 사람부터 태워도 무방
-		arrayList.sort(Comparator.reverseOrder());
-
-		// 가장 큰 수와 가작 작은수를 배에 태워 보내면 됨
-		int right = people.length-1; // 젤 작은애 index
-		int left = 0 ; // 젤 큰애 index
-		
-		while (right > left) { // 양측 left, right 포인터를 점점 가운데로 모아가면서 비교. if문으로 break 하면 시간초과 나서 while 조건으로 걸어줌
-            
-            // 두개 합친게 limit 이하이면 그 다음 가벼운, 그다음 무거운애들로 비교
-
-			if( arrayList.get(left) + arrayList.get(right) <= limit ) {
+        // 1. 사람들의 몸무게를 오름차순으로 정렬
+        Arrays.sort(people);
+        
+        // 2. 투 포인터 초기화
+        int left = 0; // 가장 가벼운 사람의 인덱스
+        int right = people.length - 1; // 가장 무거운 사람의 인덱스
+        
+        while (left <= right) {
+            // 3. 가장 무거운 사람과 가장 가벼운 사람의 무게를 합쳐서 limit과 비교
+            if (people[left] + people[right] <= limit) {
+                // 함께 탈 수 있는 경우, 두 사람 모두 구출 처리
+                left++;
+                right--;
+            } else {
+                // 함께 탈 수 없는 경우, 가장 무거운 사람만 구출 처리
                 right--;
             }
-            
-            left++;
-			
-			answer++;
-		}
-		
-		if ( left == right ) { // 옮길 사람이 한명만 남았다면 그사람 +1 해주면 되므로 
-            answer++;   
+            // 어떤 경우든 보트는 한 대 사용됨 => 여기가 포인트. 어쨋든 한대가 출발했다.
+            answer++;
         }
-		
-		return answer;
-	}
+        
+        return answer;
+    }
 }
